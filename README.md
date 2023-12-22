@@ -34,3 +34,10 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <a href="http://www.github.com/LAYHAK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LAYHAK&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 <a href="https://github.com/LAYHAK" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAYHAK&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</br>
+
+<div align="center">
+  <h2>🐍My Contributions🐍</h2>
+  <img alt="snake eating my Contributions" src="https://raw.githubusercontent.com/LAYHAK/LAYHAK/output/github-contribution-grid-snake.svg" />
+</div>
