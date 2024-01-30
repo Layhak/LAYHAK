@@ -38,5 +38,6 @@ I have been learning to code around 3 years.currently I am a scholarship student
 </br>
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif"/>
+  <a href=#><img src="contributions.svg"></a>
 </div>
+
