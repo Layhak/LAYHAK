@@ -27,7 +27,7 @@ I have been learning to code around 3 years.currently I am a scholarship student
 
 ### Badges
 <div align="leftr">
-
+<a href=#><img src="github-user-contribution.svg"></a>
 </div>
 
 <p align="left" ><b>My GitHub Stats</b></p>
