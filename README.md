@@ -1,5 +1,8 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Heng Layhak
 ===================================================================================================================================
+### Count
+![](https://komarev.com/ghpvc/?username=LAYHAK)
 
 Web Developer
 -------------
@@ -13,8 +16,7 @@ I have been learning to code around 3 years.currently I am a scholarship student
 * 🤝  I'm open to collaborating on any opportunity to learn new things
 * ⚡  I love video game and also researching about new technology
 
-### Count
-![](https://komarev.com/ghpvc/?username=LAYHAK)
+
 
 ### Skills
 
