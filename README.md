@@ -13,6 +13,12 @@ I have been learning to code around 3 years.currently I am a scholarship student
 * 🤝  I'm open to collaborating on any opportunity to learn new things
 * ⚡  I love video game and also researching about new technology
 
+### Count
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/begoingto/count.svg" />
+</p>
+
 ### Skills
 
 
