@@ -1,6 +1,6 @@
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=red&font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Heng+Layhak!;" />
+<h1 color="red">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Heng+Layhak!;" />
 </h1>
 
 Web Developer
