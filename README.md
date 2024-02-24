@@ -1,5 +1,6 @@
 <hr>
-<div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=450&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Heng+Layhak" alt="Typing SVG" /></div>
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=500&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Heng+Layhak+%F0%9F%92%99" alt="Typing SVG" />
 <hr>
 Web Developer
 
