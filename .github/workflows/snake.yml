@@ -1,27 +1,18 @@
-name: generate animation
+
+name: Generate snake game
 
 on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
-    
-  
 
 jobs:
   generate:
+    name: Jobs to update datas
     permissions: 
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
     steps:
       # Snake Animation
       - uses: Sutil/snk@master
@@ -37,3 +28,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+
