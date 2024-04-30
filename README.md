@@ -24,7 +24,7 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <p align="left"> <a href="https://www.facebook.com/Heng Layhak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LAYHAK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Snake
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Layhak/LAYHAK/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left" ><b>My GitHub Stats</b></p>
 <div align="left">
