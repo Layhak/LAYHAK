@@ -2,16 +2,13 @@
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=500&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Heng+Layhak+%F0%9F%92%99" alt="Typing SVG" />
 <hr>
-  <a href="https://app.daily.dev/henglayhak"><img src="https://api.daily.dev/devcards/v2/RDmwL0WOOx9ujh8xwGvkm.png?r=936&type=wide" width="652" alt="Heng Layhak's Dev Card"/></a>
-  <hr>
 Web Developer
 
 I have been learning to code around 3 years.currently I am a scholarship student on Full stack development at CSTAD.
 
 - 🌍  I'm based in Phnom Penh
 - ✉️  You can contact me at [layhakheng@gmail.com](mailto:layhakheng@gmail.com)
-- 🚀  I'm currently working on [Laravel Blog Page](http://github.com/LAYHAK/Laravel-Laracast-BLog)
-- 🧠  I'm learning NextJS,GO,Laravel and Devops
+- 🧠  I'm learning new Technologies and learn how to improve my personalize to make my work more efficient
 - 🤝  I'm open to collaborating on any opportunity to learn new things
 - ⚡  I love video game and also researching about new technology
 
