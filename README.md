@@ -142,8 +142,6 @@ I have been learning to code around 3 years.currently I am a student looking for
 <br><br>
 </table>
 
-### Snake
-
 ![snake animation](https://github.com/Layhak/LAYHAK/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=layhak&theme=tokyo-night&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
@@ -151,8 +149,6 @@ I have been learning to code around 3 years.currently I am a student looking for
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=tokyonight&layout=compact"width="50%"/> 
 </p>
-
-### Stats:
 
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
