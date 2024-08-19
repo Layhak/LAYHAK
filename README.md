@@ -150,15 +150,15 @@ I have been learning to code around 3 years.currently I am a scholarship student
 
 ![snake animation](https://github.com/Layhak/LAYHAK/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Layhak&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-<img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=layhak&theme=catppuccin_mocha&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+<img src="https://github-profile-trophy.vercel.app/?username=layhak&column=-1&theme=catppuccin_mocha&layout=compact"width="95%"/> 
 <p align="left" ><b>My GitHub Stats</b></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=react&layout=compact"width="100%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=catppuccin_mocha&layout=compact"width="95%"/> 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=react&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=catppuccin_mocha&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=layhak&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/>
 </p>
 
