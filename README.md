@@ -1,7 +1,6 @@
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
-
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=500&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Heng+Layhak+%F0%9F%92%99" alt="Typing SVG" />
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
 Web Developer
 
 I have been learning to code around 3 years.currently I am a scholarship student on Full stack development at CSTAD.
@@ -163,3 +162,25 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <div align="left">
 <a href="http://www.github.com/LAYHAK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LAYHAK&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 </div>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+
+
+<div align="center">
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<br />
+
+
+<div align="center">
+    
+###### @2024 [BisKIRAN TECHNOLOGIES](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
+
+</div>
+
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
+
