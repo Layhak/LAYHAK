@@ -154,12 +154,12 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <img src="https://github-profile-trophy.vercel.app/?username=layhak&column=-1&theme=catppuccin_mocha&layout=compact"width="95%"/> 
 <p align="left" ><b>My GitHub Stats</b></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=catppuccin_mocha&layout=compact"width="95%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=catppuccin_mocha&layout=compact"width="70%"/> 
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=catppuccin_mocha&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=layhak&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=layhak&theme=catppuccin_mocha&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
