@@ -171,13 +171,13 @@ I have been learning to code around 3 years.currently I am a scholarship student
 
 <div align="center">
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/layhak/layhak/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
 <br />
 
 
 <div align="center">
     
-###### @2024 [BisKIRAN TECHNOLOGIES](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
+###### @2024 [Layhak](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
 
 </div>
 
