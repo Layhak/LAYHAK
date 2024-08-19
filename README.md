@@ -153,14 +153,14 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Layhak&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
 <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
 <p align="left" ><b>My GitHub Stats</b></p>
-<div align="left">
-  <a href="http://www.github.com/LAYHAK"><img src="https://github-readme-stats.vercel.app/api?username=LAYHAK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LAYHAK's GitHub stats" /></a>
-</div>
-<div>
-<p align="left" ><b>Total Contributions</b></p>
-<div align="left">
-<a href="http://www.github.com/LAYHAK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LAYHAK&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=react&layout=compact"width="100%"/> 
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=react&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=layhak&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/>
+</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
