@@ -151,6 +151,8 @@ I have been learning to code around 3 years.currently I am a scholarship student
 ### Snake
 ![snake animation](https://github.com/Layhak/LAYHAK/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Layhak&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+
 <p align="left" ><b>My GitHub Stats</b></p>
 <div align="left">
   <a href="http://www.github.com/LAYHAK"><img src="https://github-readme-stats.vercel.app/api?username=LAYHAK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LAYHAK's GitHub stats" /></a>
