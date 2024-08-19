@@ -15,13 +15,11 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <img src="https://github.com/layhak/layhak/blob/main/2nd%20arrow.gif?raw=true" alt="Animated footer bars" width="100%"/>
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Layhak&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
 
-### Visitor Count
+### Visitor Count:
 
   <img src="https://profile-counter.glitch.me/Layhak/count.svg"/>
 
-### Skills
-
-####
+### Skills:
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -156,6 +154,8 @@ I have been learning to code around 3 years.currently I am a scholarship student
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=tokyonight&layout=compact"width="50%"/> 
 </p>
+
+### Stats:
 
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
