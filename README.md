@@ -1,6 +1,7 @@
 <img src="https://github.com/layhak/layhak/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=500&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Heng+Layhak+%F0%9F%92%99" alt="Typing SVG" />
 <img src="https://github.com/layhak/layhak/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+
 Web Developer
 
 I have been learning to code around 3 years.currently I am a scholarship student on Full stack development at CSTAD.
