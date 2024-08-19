@@ -11,6 +11,7 @@ I have been learning to code around 3 years.currently I am a scholarship student
 - 🧠  I'm learning new Technologies and learn how to improve my personalize to make my work more efficient
 - 🤝  I'm open to collaborating on any opportunity to learn new things
 - ⚡  I love video game and also researching about new technology
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Layhak&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%"> 
 
 ### Skills
 
