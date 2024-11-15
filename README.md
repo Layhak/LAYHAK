@@ -152,7 +152,7 @@ I have been learning to code around 3 years.currently I am a student looking for
 
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=layhak&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=layhak&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Layhak&theme=tokyonight&hide_border=true&exclude_days=Mon" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
