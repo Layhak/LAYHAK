@@ -147,7 +147,7 @@ I have been learning to code around 3 years.currently I am a student looking for
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=layhak&theme=tokyo-night&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
 <img src="https://github-profile-trophy.vercel.app/?username=layhak&column=-1&theme=tokyonight&layout=compact"width="100%"/> 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=tokyonight&layout=compact"width="100%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layhak&theme=tokyonight&layout=compact"width="80%"/> 
 </p>
 
 
