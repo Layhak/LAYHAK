@@ -12,10 +12,6 @@ I have been learning to code around 3 years.currently I am a student looking for
 <img src="https://github.com/layhak/layhak/blob/main/2nd%20arrow.gif?raw=true" alt="Animated footer bars" width="100%"/>
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Layhak&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
 
-### Visitor Count:
-
-  <img src="https://profile-counter.glitch.me/Layhak/count.svg"/>
-
 ### Skills:
 
 <table>
